@@ -1,4 +1,4 @@
-## Project Demo: https://reliable-concha-7aa512.netlify.app/
+## Project Demo: https://fivercloneapp.netlify.app/
 ## 🚀 FiverrClone
 
 Welcome to the FiverrClone repository! This project is a web application inspired by Fiverr, developed using React, React Router, Sass, Infinite React Carousel, and ESLint. The project aims to replicate some of the core functionalities of Fiverr while adding unique transitions and animations to enhance the user experience.
@@ -64,5 +64,5 @@ Feel free to contribute, provide feedback, or get in touch!
 
 ### Author
 
-    GitHub: <a href='https://www.linkedin.com/in/sachinkubiswal/'>sachinbiswal</a>
+    GitHub: sachinbiswal
     LinkedIn: sachinbiswal
